@@ -1,7 +1,7 @@
 function initialize() {
   var kokoweef_cavern = new google.maps.LatLng(35.420347, -115.493836);
   var mapOptions = {
-    zoom: 11,
+    zoom: 15,
     center: kokoweef_cavern,
     mapTypeId: google.maps.MapTypeId.SATELLITE
   }
