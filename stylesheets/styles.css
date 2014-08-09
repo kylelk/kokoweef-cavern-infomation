@@ -1,0 +1,9 @@
+ html { height: 100% }
+      body { height: 100%; margin: 0; padding: 0 }
+      #nearby_mines_map { 
+          height: 600px;
+      }
+
+#page_title_header {
+    text-align: center;
+}

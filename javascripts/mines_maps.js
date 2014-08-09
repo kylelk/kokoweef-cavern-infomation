@@ -9,7 +9,7 @@ function initialize() {
   var map = new google.maps.Map(document.getElementById('nearby_mines_map'), mapOptions);
 
   var ctaLayer = new google.maps.KmlLayer({
-    url: 'doc.kml'
+    url: 'http://kylelk.github.io/kokoweef-cavern-infomation/mines.kmz'
   });
   ctaLayer.setMap(map);
 }
